@@ -8,6 +8,7 @@
             "email": "lucas@beyond-livin.com"
         }
     ],
+    "version": "1.0.0",
     "require": {
         "league/flysystem": "^1.0",
         "ext-json": "*",
