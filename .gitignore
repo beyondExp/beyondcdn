@@ -1,0 +1,11 @@
+vendor
+bin
+composer.lock
+coverage
+coverage.xml
+tests/files
+.idea
+report/
+clover.xml
+./tests/BunnyCDNAdapterTest_Production.php
+.phpunit.result.cache
