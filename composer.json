@@ -1,5 +1,5 @@
 {
-    "name": "beyond/beyondcdn",
+    "name": "beyondexp/beyondcdn",
     "description": "Flysystem adapter for BeyondCDN.",
     "license": "MIT",
     "authors": [
@@ -21,12 +21,12 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Beyond\\BeyondCDN\\Tests\\": "tests/"
+            "PlatformCommunity\\Flysystem\\BunnyCDN\\Tests\\": "tests/"
         }
     },
     "autoload": {
         "psr-4": {
-            "Beyond\\BeyondCDN\\": "src/"
+            "PlatformCommunity\\Flysystem\\BunnyCDN\\": "src/"
         }
     },
     "extra": {
